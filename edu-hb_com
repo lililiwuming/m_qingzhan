@@ -14,8 +14,6 @@
     {"id":"剧情片","url":"https://www.edu-hb.com/show/juqingpian-----------.html"},
     {"id":"战争片","url":"https://www.edu-hb.com/show/zhanzengpian-----------.html"},
     {"id":"传记","url":"https://www.edu-hb.com/show/zhuanji-----------.html"}]},
-  {"title":"纪录片","data":[
-    {"id":"纪录片","url":"https://www.edu-hb.com/show/jilu-----------.html"}]},
   {"title":"连续剧","data":[
     {"id":"连续剧","url":"https://www.edu-hb.com/show/lianxuju-----------.html"},
     {"id":"国产剧","url":"https://www.edu-hb.com/show/guochanju-----------.html"},
@@ -36,4 +34,6 @@
     {"id":"内地综艺","url":"https://www.edu-hb.com/show/ndzy-----------.html"},
     {"id":"港台综艺","url":"https://www.edu-hb.com/show/gtzy-----------.html"},
     {"id":"韩国综艺","url":"https://www.edu-hb.com/show/variety-----------.html"},
-    {"id":"欧美综艺","url":"https://www.edu-hb.com/show/oumeizongyi-----------.html"}]}]}
+    {"id":"欧美综艺","url":"https://www.edu-hb.com/show/oumeizongyi-----------.html"}]},
+ {"title":"纪录片","data":[
+    {"id":"纪录片","url":"https://www.edu-hb.com/show/jilu-----------.html"}]}]}
